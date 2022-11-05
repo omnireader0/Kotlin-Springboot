@@ -1,2 +1,2 @@
-# Kotlin-Springboot
-Rest, Junit, Exception handling ..
+# kotlin-springboot
+rest api, junit, exception ... practice
